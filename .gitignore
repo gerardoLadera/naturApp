@@ -1,0 +1,7 @@
+# Ignorar dependencias
+naturapp-backend/node_modules/
+naturapp-mobile/node_modules/
+
+# Otros archivos comunes
+.env
+*.log
